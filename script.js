@@ -2,7 +2,7 @@
    CONFIG
    Point this at your running FastAPI instance.
 ===================================================== */
-const API_BASE_URL = "http://127.0.0.1:8000";
+const API_BASE_URL = "https://mental-health-score-2-qryg.onrender.com";
 const PREDICT_ENDPOINT = `${API_BASE_URL}/predict`;
 
 /* =====================================================
